@@ -66,7 +66,12 @@ with mod1:
             "| **Uptown** | ~$1,150 | Closest to campus — most popular for students |\n"
             "| **Garden District** | ~$1,287 | Beautiful streets, walkable, slightly quieter |\n"
             "| **Mid-City** | ~$1,491 | More affordable vibe, but you'll need a bus or car |\n"
-            "| **French Quarter / CBD** | ~$1,838 | Lively but expensive and far from main campus |\n"
+            "| **French Quarter / CBD** | ~$1,838 | Lively, close to downtown campus buildings |\n"
+        )
+        st.caption(
+            "These reflect the average price for a 1-bedroom in each neighborhood. "
+            "Many students choose to live with roommates to reduce costs or find cheaper housing. "
+            "Use the affordability calculator to determine more accurate costs for your specific situation."
         )
 
     st.divider()
